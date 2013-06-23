@@ -1,0 +1,45 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Malayalam - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/Malayalam.res" /d "_DEBUG" /d "_AFXDLL" "C:\vc\Unicode\macfast\Malayalam.rc"" 
+Creating temporary file "C:\DOCUME~1\user26\LOCALS~1\Temp\RSP10.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_AFXEXT" /D "_WINDLL" /D "_AFXDLL" /Fp"Debug/Malayalam.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\vc\Unicode\macfast\Malayalam.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\user26\LOCALS~1\Temp\RSP10.tmp" 
+Creating temporary file "C:\DOCUME~1\user26\LOCALS~1\Temp\RSP11.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_AFXEXT" /D "_WINDLL" /D "_AFXDLL" /Fp"Debug/Malayalam.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\vc\Unicode\macfast\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\user26\LOCALS~1\Temp\RSP11.tmp" 
+Creating temporary file "C:\DOCUME~1\user26\LOCALS~1\Temp\RSP12.tmp" with contents
+[
+/nologo /subsystem:windows /dll /incremental:yes /pdb:"Debug/Malayalam.pdb" /debug /machine:I386 /def:".\Malayalam.def" /out:"Debug/Malayalam.dll" /implib:"Debug/Malayalam.lib" /pdbtype:sept 
+.\Debug\Malayalam.obj
+.\Debug\StdAfx.obj
+.\Debug\Malayalam.res
+]
+Creating command line "link.exe @C:\DOCUME~1\user26\LOCALS~1\Temp\RSP12.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+Malayalam.cpp
+Linking...
+   Creating library Debug/Malayalam.lib and object Debug/Malayalam.exp
+
+
+
+<h3>Results</h3>
+Malayalam.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MalayalamFontGUI - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/MalayalamFontGUI.res" /d "_DEBUG" /d "_AFXDLL" "C:\vc\Unicode\macfast\MalayalamFontGUI\MalayalamFontGUI.rc"" 
+Creating temporary file "C:\DOCUME~1\user26\LOCALS~1\Temp\RSP38.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_AFXDLL" /Fp"Debug/MalayalamFontGUI.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\vc\Unicode\macfast\MalayalamFontGUI\MalayalamFontGUI.cpp"
+"C:\vc\Unicode\macfast\MalayalamFontGUI\MalayalamFontGUIDlg.cpp"
+"C:\vc\Unicode\macfast\MalayalamFontGUI\Splash.cpp"
+"C:\vc\Unicode\macfast\MalayalamFontGUI\TrayDialog.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\user26\LOCALS~1\Temp\RSP38.tmp" 
+Creating temporary file "C:\DOCUME~1\user26\LOCALS~1\Temp\RSP39.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_AFXDLL" /Fp"Debug/MalayalamFontGUI.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\vc\Unicode\macfast\MalayalamFontGUI\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\user26\LOCALS~1\Temp\RSP39.tmp" 
+Creating temporary file "C:\DOCUME~1\user26\LOCALS~1\Temp\RSP3A.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/MalayalamFontGUI.pdb" /debug /machine:I386 /out:"Debug/MalayalamFontGUI.exe" /pdbtype:sept 
+.\Debug\MalayalamFontGUI.obj
+.\Debug\MalayalamFontGUIDlg.obj
+.\Debug\Splash.obj
+.\Debug\StdAfx.obj
+.\Debug\TrayDialog.obj
+.\Debug\MalayalamFontGUI.res
+..\Malayalam.lib
+]
+Creating command line "link.exe @C:\DOCUME~1\user26\LOCALS~1\Temp\RSP3A.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+MalayalamFontGUI.cpp
+MalayalamFontGUIDlg.cpp
+Splash.cpp
+TrayDialog.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+MalayalamFontGUI.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
