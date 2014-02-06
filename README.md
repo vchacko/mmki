@@ -13,3 +13,6 @@ This application provides an interface, which enables Windows/GNULinux users to 
 
 The MCA students of MACFAST had come across the need for an easier way to use the keyboard for malayalam users and had taken up this project successfully. This product can be downloaded free of cost from the Macfast website for anyone wanting to use the same thereby uploading the highest principles of learning by contributing to the society and community at large by finding a solution to a problem faced by Malayalam keyboard users.
 
+Acknowledgements.
+
+http://www.onlinetoolbag.com/blog/macfst-malayalam-keyboard-interface/
