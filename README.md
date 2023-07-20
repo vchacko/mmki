@@ -1,7 +1,7 @@
 Macfast Malayalam Keyboard Interface
 ====================================
 Copy Right (c) 2004 macfast.org.
-Developed by: varghesec@gmail.com
+Developed by: mmki@varghesec.com
 
 MACFAST Malayalam Keyboard Interface is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
 
